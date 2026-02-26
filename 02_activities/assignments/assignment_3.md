@@ -1,6 +1,7 @@
 # Data Visualization
 
 ## Assignment 3: Final Project
+Link to the data: https://data.ontario.ca/dataset/wages-by-education-level
 
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
